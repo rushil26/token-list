@@ -107233,6 +107233,13 @@
     },
     {
       "chainId": 103,
+      "address": "J4UyCkHkE69zF1L7WDP2bVz9mPW4cyDwrQuKkaZ1e1NbT",
+      "symbol": "RUSSI",
+      "name": "Russi Coin",
+      "decimals": 6,
+},
+{
+      "chainId": 103,
       "address": "GGkyk1KNs6kbnEgYwqYaPtuSwTXVhXPYBqododhGfw3T",
       "symbol": "UNITOK",
       "name": "Bugsy Token",
