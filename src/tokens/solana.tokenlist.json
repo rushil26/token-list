@@ -107250,6 +107250,17 @@
         "Gaming",
         "Gambling"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "J4UyCkHkE69zF1L7WDP2bVz9mPW4cyDwrQuKkaZ1e1Nb",
+      "symbol": "RUSSI",
+      "name": "Russi coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/rushil26/crypto/main/russi%20coin%20logo.png",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
